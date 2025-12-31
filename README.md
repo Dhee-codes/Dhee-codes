@@ -5,7 +5,7 @@
 I’m an aspiring software engineer passionate about learning and building software that is both functional and user-friendly. Currently, I’m focusing on frontend development with HTML, CSS, JavaScript, and Tailwind, turning designs into responsive, interactive interfaces, while steadily expanding my skills toward fullstack development. I enjoy learning by building projects, solving problems, and continuously improving my craft to create high-quality, maintainable applications.
 
 - 🔭 I’m currently working on building responsive web interfaces with, turning designs into interactive, user-friendly pages.
-- 🌱 I’m currently learning JavaScript and Tailwind, experimenting with responsive design and building interactive, user-friendly interfaces.
+- 🌱 I’m currently learning to experiment with responsive design and build interactive, user-friendly interfaces.
 - 📫 How to reach me: divine.e.obiorah@gmail.com
 - 🖥️ Explore my portfolio at [my website]()
 - ⚡ Fun fact: I enjoy chess and a good cup of coffee.
