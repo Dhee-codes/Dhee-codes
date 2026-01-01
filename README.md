@@ -26,9 +26,18 @@ I’m an aspiring software engineer passionate about learning and building softw
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://github.com/divine-obiorah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Divine Obiorah's GitHub" width="40" /></a>
-<a href="https://www.linkedin.com/in/dheecodes/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Divine Obiorah's LinkedIn" width="40" /></a>
-<a href="https://twitter.com/Dheecodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Divine Obiorah's Twitter" width="40" /></a>
+<a href="https://github.com/divine-obiorah" target="_blank">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=github&color=B7B7B7&size=40" alt="Divine Obiorah's GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/dheecodes/" target="_blank">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&color=B7B7B7&size=40" alt="Divine Obiorah's LinkedIn" />
+</a>
+<a href="https://x.com/Dheecodes" target="_blank">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=x&color=B7B7B7&size=40" />
+</a>
+<a href="https://instagram.com/dheecodes" target="_blank">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&color=B7B7B7&size=40" alt="Divine Obiorah's Instagram" />
+</a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
