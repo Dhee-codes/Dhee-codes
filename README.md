@@ -4,7 +4,7 @@
 
 I’m an aspiring software engineer passionate about learning and building software that is both functional and user-friendly. Currently, I’m focusing on frontend development with HTML, CSS, JavaScript, and Tailwind, turning designs into responsive, interactive interfaces, while steadily expanding my skills toward fullstack development. I enjoy learning by building projects, solving problems, and continuously improving my craft to create high-quality, maintainable applications.
 
-- 🌱 I’m currently web development with The Odin Project curriculum.
+- 🌱 I’m currently learning web development with The Odin Project curriculum.
 - 🔭 I’m currently working on building responsive web interfaces with HTML, CSS and JavaScript, building logic in programming and learning how to learn.
 - 📫 How to reach me: divine.e.obiorah@gmail.com
 - 🖥️ Explore my portfolio at [my website]()
