@@ -1,29 +1,39 @@
 # Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Divine Obiorah
 
-## Asparing Software Engineer
+## Frontend Developer (Next.js / React)
 
-I’m an aspiring software engineer passionate about learning and building software that is both functional and user-friendly. Currently, I’m focusing on frontend development with HTML, CSS, JavaScript, and Tailwind, turning designs into responsive, interactive interfaces, while steadily expanding my skills toward fullstack development. I enjoy learning by building projects, solving problems, and continuously improving my craft to create high-quality, maintainable applications.
+Frontend developer with hands-on experience building and maintaining production web interfaces using modern JavaScript technologies. I focus on translating designs into responsive, accessible, and maintainable user interfaces, and I’m comfortable working within existing codebases and established engineering standards.
 
-- 🌱 I’m currently learning web development with The Odin Project curriculum.
-- 🔭 I’m currently working on building responsive web interfaces with HTML, CSS and JavaScript, building logic in programming and learning how to learn.
-- 📫 How to reach me: divine.e.obiorah@gmail.com
-- 🖥️ Explore my portfolio at [my website]()
-- ⚡ Fun fact: I enjoy chess and a good cup of coffee.
+I currently primarily work with **Next.js, React, TypeScript, Tailwind CSS, HTML, and CSS**, and I value clean UI implementation, usability, and long-term maintainability.
 
-<h3 align="left">Languages and Tools:</h3>
+- 🔭 Currently working with **Next.js and React** on production and personal projects  
+- 🌱 Continuously improving my frontend fundamentals and expanding toward full-stack development  
+- 🧩 Experienced in translating **Figma designs into responsive, accessible UIs**  
+- 📫 Reach me at: **divine.e.obiorah@gmail.com**  
+- 🖥️ Portfolio: [my website]() 
+- ⚡ Fun fact: I enjoy chess and a good cup of coffee
+
+---
+
+### Languages and Tools
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Connect with me
 
 <p align="left">
 <a href="https://github.com/divine-obiorah" target="_blank">
@@ -40,8 +50,10 @@ I’m an aspiring software engineer passionate about learning and building softw
 </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+---
 
-![](https://github-readme-stats.vercel.app/api?username=divine-obiorah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=divine-obiorah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divine-obiorah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=divine-obiorah&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=divine-obiorah&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divine-obiorah&theme=dark&hide_border=false&layout=compact)
