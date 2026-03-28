@@ -9,8 +9,7 @@ I currently primarily work with **Next.js, React, TypeScript, Tailwind CSS, HTML
 - 🔭 Currently working with **Next.js and React** on production and personal projects  
 - 🌱 Continuously improving my frontend fundamentals and expanding toward full-stack development  
 - 🧩 Experienced in translating **Figma designs into responsive, accessible UIs**  
-- 📫 Reach me at: **divine.e.obiorah@gmail.com**  
-- 🖥️ Portfolio: [my website]() 
+- 📫 Reach me at: **divine.e.obiorah@gmail.com**
 - ⚡ Fun fact: I enjoy chess and a good cup of coffee
 
 ---
