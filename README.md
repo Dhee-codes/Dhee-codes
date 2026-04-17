@@ -2,11 +2,11 @@
 
 ## Frontend Developer (Next.js / React)
 
-Frontend developer with hands-on experience building and maintaining production web interfaces using modern JavaScript technologies. I focus on translating designs into responsive, accessible, and maintainable user interfaces, and I’m comfortable working within existing codebases and established engineering standards.
+Frontend developer with hands-on Frontend developer with hands-on experience building and maintaining production web interfaces using modern JavaScript technologies. I focus on translating designs into responsive, accessible, and maintainable user interfaces, and I'm comfortable working within existing codebases and established engineering standards.
 
-I currently primarily work with **Next.js, React, TypeScript, Tailwind CSS, HTML, and CSS**, and I value clean UI implementation, usability, and long-term maintainability.
+I currently primarily work with Next.js, React, TypeScript, Tailwind CSS, HTML, and CSS, and I value clean UI implementation, usability, and long-term maintainability.
 
-- 🔭 Currently working with **Next.js and React** on production and personal projects  
+- 🔭 Currently interning at Trueminds Innovations Ltd, contributing to frontend development with Next.js and TypeScript
 - 🌱 Continuously improving my frontend fundamentals and expanding toward full-stack development  
 - 🧩 Experienced in translating **Figma designs into responsive, accessible UIs**  
 - 📫 Reach me at: **divine.e.obiorah@gmail.com**
