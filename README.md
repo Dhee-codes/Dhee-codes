@@ -44,9 +44,6 @@ I currently primarily work with **Next.js, React, TypeScript, Tailwind CSS, HTML
 <a href="https://x.com/Dheecodes" target="_blank">
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=x&color=B7B7B7&size=40" />
 </a>
-<a href="https://instagram.com/dheecodes" target="_blank">
-  <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&color=B7B7B7&size=40" alt="Divine Obiorah's Instagram" />
-</a>
 </p>
 
 ---
