@@ -2,7 +2,7 @@
 
 ## Frontend Developer (Next.js / React)
 
-Frontend developer with hands-on Frontend developer with hands-on experience building and maintaining production web interfaces using modern JavaScript technologies. I focus on translating designs into responsive, accessible, and maintainable user interfaces, and I'm comfortable working within existing codebases and established engineering standards.
+Frontend developer with hands-on experience building and maintaining production web interfaces using modern JavaScript technologies. I focus on translating designs into responsive, accessible, and maintainable user interfaces, and I'm comfortable working within existing codebases and established engineering standards.
 
 I currently primarily work with Next.js, React, TypeScript, Tailwind CSS, HTML, and CSS, and I value clean UI implementation, usability, and long-term maintainability.
 
