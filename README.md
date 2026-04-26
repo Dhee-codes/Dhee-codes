@@ -9,7 +9,7 @@ I focus on translating complex visual briefs into responsive, accessible, and ma
 - ​🔭 Currently: Frontend Intern @ Trueminds Innovations Ltd, shipping in Next.js & TypeScript.
 - 🌱​ Learning: Currently deepening my Next.js expertise and expanding toward full-stack engineering.  
 - 🧩 The Gap: I ensure a complete experience by building the "missing screens" and edge cases that designs don't always cover.
-- 🌐 Portfolio: [dheecodes website](dheecodes.vercel.app)
+- 🌐 Portfolio: [dheecodes website](https://dheecodes.vercel.app)
 - 📫 Reach me at: **divine.e.obiorah@gmail.com**
 - ​⚡ Fun Fact: I enjoy the logic of a good chess match and a sharp cup of coffee.
 
