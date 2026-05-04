@@ -6,7 +6,7 @@ Frontend developer with hands-on experience building and maintaining production 
 
 I focus on translating complex visual briefs into responsive, accessible, and maintainable user interfaces. I’m comfortable navigating production codebases, respecting engineering standards, and solving for the edge cases that designs often miss.
 
-- ​🔭 Currently: Frontend Intern @ Trueminds Innovations Ltd, shipping in Next.js & TypeScript.
+- ​🔭 Currently: 4th year CS student, actively building with Next.js & TypeScript.
 - 🌱​ Learning: Currently deepening my Next.js expertise and expanding toward full-stack engineering.  
 - 🧩 The Gap: I ensure a complete experience by building the "missing screens" and edge cases that designs don't always cover.
 - 🌐 Portfolio: [dheecodes website](https://dheecodes.vercel.app)
